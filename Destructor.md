@@ -1,4 +1,4 @@
-# Destructor in Python
+# 5)b)Destructor in Python
 
 This project demonstrates how to implement a **destructor** in Python using a simple class.
 
