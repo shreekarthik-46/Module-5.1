@@ -1,4 +1,4 @@
-# Hierarchical Inheritance in Python
+# 5)c) Hierarchical Inheritance in Python
 
 This Python project demonstrates **Hierarchical Inheritance** using a base class `Details` and two derived classes `Employee` and `Patient`. The program collects and displays details for both employees and patients.
 
